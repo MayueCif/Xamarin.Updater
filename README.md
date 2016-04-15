@@ -13,7 +13,7 @@ Xamarin.Android 应用更新模块
 ```C#
 
 var updater = UpdateAgent.GetInstance (this);
-				updater.DownloadMode = DownloadMode.Overwrite;
-				updater.Start ("http://filelx.liqucn.com/upload/2015/shipin/360Video_ys4873.apk", "ys4873.apk");
+updater.DownloadMode = DownloadMode.Overwrite;
+updater.Start ("http://filelx.liqucn.com/upload/2015/shipin/360Video_ys4873.apk", "ys4873.apk");
 
 ```
