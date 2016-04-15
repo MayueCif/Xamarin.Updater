@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Updater_Test", "Xamarin.Updater_Test\Xamarin.Updater_Test.csproj", "{CDD75AC1-BF8C-4B1C-A533-39296240E76C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Updater", "Xamarin.Updater\Xamarin.Updater.csproj", "{F5E0BBF1-E294-4BBD-9C45-22B168D7BCCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDD75AC1-BF8C-4B1C-A533-39296240E76C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDD75AC1-BF8C-4B1C-A533-39296240E76C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDD75AC1-BF8C-4B1C-A533-39296240E76C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDD75AC1-BF8C-4B1C-A533-39296240E76C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5E0BBF1-E294-4BBD-9C45-22B168D7BCCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5E0BBF1-E294-4BBD-9C45-22B168D7BCCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5E0BBF1-E294-4BBD-9C45-22B168D7BCCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5E0BBF1-E294-4BBD-9C45-22B168D7BCCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="Xamarin.Updater_Test/Xamarin.Updater_Test.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Xamarin.Updater/UpdateAgent.cs">
+    <Files>
+      <File FileName="Xamarin.Updater/UpdateAgent.cs" Line="106" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
