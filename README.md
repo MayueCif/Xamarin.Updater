@@ -1,5 +1,5 @@
 # Xamarin.Updater
-Xamarin.Android 应用更新模块
+Xamarin.Android 应用更新模块，借助DownloadManager实现
 
 更新的apk默认下载到Download文件夹，要添加权限
 ```xml
